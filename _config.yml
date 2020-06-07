@@ -6,8 +6,8 @@ markdown: kramdown
 highlighter: pygments
 logo: false
 paginate: 15
-baseurl: /
-domain_name: 'http://yourblog-domain.com'
+baseurl: /kasper
+domain_name: 'https://derek-rc.github.io/'
 google_analytics: 'UA-XXXXXXXX-X'
 gems: [jekyll-paginate]
 
